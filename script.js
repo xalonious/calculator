@@ -68,5 +68,4 @@ function updateDisplay(current, previous = '') {
     previousDisplay.textContent = previous;
 }
 
-// Initialize calculator
 clearDisplay();
